@@ -29,7 +29,7 @@ This project analyzes sales performance using Power BI. The dashboard provides i
 
 ## Files Included
 - Power BI Dashboard (.pbix)
-- Dataset (.csv)
+- Dataset (.sql)
 - Dashboard Screenshots
 
 ## Author
